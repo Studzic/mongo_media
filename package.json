@@ -1,0 +1,24 @@
+{
+  "name": "social-api",
+  "version": "1.0.0",
+  "description": "Social Networking API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:Studzic/mongo_media.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:Studzic/mongo_media.git"
+  },
+  "homepage": "git@github.com:Studzic/mongo_media.git",
+  "dependencies": {
+    "date-fns": "^2.20.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
